@@ -1,11 +1,11 @@
 # third-delivery
-Esta es mi página web, soy Alejandro Ruiz Díaz de 1ºDAM.
+This is my web page, I´m Alejandro Ruiz Díaz 1ºDAM.
 
-# Titulo
-El Everest.
+# Name
+The Everest.
 
-# Descripción
-Esta es mi página web, soy Alejandro Ruiz Díaz del ciclo 1ºDAM, he creado una página web sobre el Everest. La he hecho como trabajo de el módulo LND.
+# Description
+This is my web page, I´m Alejandro Ruiz Díaz of the cycle 1ºDAM, I´ve created this web page for a project for the subject LND.
 
 # Agradecimientos
-Muchas gracias a mi profesor Tiburcio y a mis comañeros por ayudarme en el proceso de creación de este proyecto, en especial a Hatem.
+Thenks to my teacher Tiburcio and my clasmates for helping me to finish this project, in special Hatem.
